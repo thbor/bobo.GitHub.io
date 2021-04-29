@@ -13,13 +13,9 @@ Syntax highlighted code block
 
 主页：
 
-https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png
+![image](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 

@@ -2,11 +2,9 @@
 
 
 主页：
+
+
 ![Image](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

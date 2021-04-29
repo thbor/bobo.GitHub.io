@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 主页：
 
-![image](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
-
+![Image of Yaktocat](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 **Bold** and _Italic_ and `Code` text

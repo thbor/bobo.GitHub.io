@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 ![Image of Yaktocat](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+![Image](https://github.com/thbor/bobo.GitHub.io/blob/gh-pages/index.png)
 
 **Bold** and _Italic_ and `Code` text
 
